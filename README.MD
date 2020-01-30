@@ -1,2 +1,3 @@
 # Music Generation using Python 3 and Magenta
-This is an work in progress.
+Basic MIDI Generation using Loopback_rnn model is achieved.
+This is a work in progress.
